@@ -16,9 +16,9 @@ global.ytname = "YT: Tech-God"
 global.socialm = "GitHub: techgod143"
 global.location = "India, Up, Rampur"
 
-global.ownernumber = '917466008456'  //creator number
-global.ownername = '🐛Tech god' //owner name
-global.botname = 'Tech God ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '2349017935543'  //creator number
+global.ownername = '𝓟 𝓡 𝓘 𝓝 𝓒 𝓔' //owner name
+global.botname = '🅿🆁🅸🅽🅲🅴 🅱🅾🆃' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
@@ -48,7 +48,7 @@ global.autoswview = true //auto view status/story
 //v2 is link + image menu,
 //v3 is video menu,
 //v4 is call end menu
-global.typemenu = 'v2'
+global.typemenu = 'v1'
 
 //text bug
 global.xbugtex = {
